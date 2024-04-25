@@ -1,3 +1,4 @@
+
 <!-- Title -->
 <h1 align="center"> Gráfica circular con etiquetas para grupos
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
@@ -13,6 +14,10 @@ En este caso se usa el tabulado 5.2 de la Encuesta Nacional sobre Discriminació
 <img src = "https://github.com/sanalexito/GraficaCircular/assets/65984679/5b759832-c2d0-486e-8c70-14f2eb8666d8" >
 </p>
 
+Mira la forma en la que aparecen los datos para tener una idea de lo que se presenta en la visualización.
+<p align = "center">
+<img src = https://github.com/sanalexito/GraficaCircular/assets/65984679/59097160-ec81-4cd0-b8ff-95d3d1698d24>
+</p>
 
 <!-- Quote -->
 <h2 align="center">Te paso mi código, cambiar al mundo ya dependerá de ti 🤯 🗺️ 🌐
